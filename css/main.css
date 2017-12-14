@@ -39,8 +39,8 @@ article header {
 }
 
 article p {
-  padding: .2em;
-  padding-right: 1em;
+  padding: 0;
+  padding-right: .8em;
 }
 
 blockquote p {
