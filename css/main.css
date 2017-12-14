@@ -48,6 +48,11 @@ blockquote p {
   padding-right: .1em;
 }
 
+blockquote p span {
+  margin: -.4em;
+  padding-right: .4em;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
