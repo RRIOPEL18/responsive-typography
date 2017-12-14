@@ -47,13 +47,13 @@ blockquote p {
   margin: 0;
 }
 
-article p:nth-child(3) {
-  margin: .3em;
-}
-
 article header p {
   font-style: italic;
   margin-top: 0;
+}
+
+article p:nth-child(3) {
+  margin: .3em;
 }
 
 article > p:last-child {
