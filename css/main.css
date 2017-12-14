@@ -41,6 +41,9 @@ article header p {
   font-style: italic;
   margin-top: .2em;
 }
+article p {
+  padding: .2em;
+}
 
 article > p:last-child {
   border-bottom: 1px solid #999;
