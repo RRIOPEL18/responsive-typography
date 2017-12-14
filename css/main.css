@@ -43,6 +43,10 @@ article p {
   padding-right: 1em;
 }
 
+blockquote p {
+  margin: 0;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
@@ -56,10 +60,6 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
-  margin: 0;
-}
-
-blockquote p {
   margin: 0;
 }
 
