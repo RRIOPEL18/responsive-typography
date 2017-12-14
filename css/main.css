@@ -19,13 +19,13 @@ html {
 }
 
 body {
-  margin: auto;
+  margin: 0;
   padding-left: 1em;
 }
 
 article {
   max-width: 43em;
-  font-family: 'Crimson Text', serif;
+  font-family: "Crimson Text", serif;
   margin: auto;
 }
 
@@ -82,15 +82,15 @@ article ol {
 @media only screen and (min-width: 60em) {
 
   html {
-  font-size: 120%;
-  line-height: 1.5;
+    font-size: 120%;
+    line-height: 1.5;
   }
 }
 
 @media only screen and (min-width: 90em) {
 
-html {
-  font-size: 130%;
-}
+  html {
+    font-size: 130%;
+  }
 
 }
