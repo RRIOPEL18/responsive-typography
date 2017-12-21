@@ -37,10 +37,11 @@ article h1 {
 
 article header {
   border-bottom: 1px solid #999;
+  padding-bottom: .2em;
 }
 
 article p {
-  padding: .2em;
+  padding: .25em;
   padding-right: .8em;
 }
 
@@ -105,5 +106,4 @@ article ol {
   html {
     font-size: 130%;
   }
-
 }
